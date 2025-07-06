@@ -2,5 +2,8 @@
 - python3 -m venv .venv
 - source .venv/bin/activate
 
+- python3 -m venv myenv
+- myenv/bin/activate 
+
 #commit
 - git remote set-url origin git@github.com:nhphan/computervision_30days.git
